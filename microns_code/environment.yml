@@ -1,0 +1,39 @@
+name: micronsbinder
+channels:
+  - defaults
+  - conda-forge
+  - plotly
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.7.*
+  - pip
+  - pykdtree
+  - itkwidgets
+  - jupyterlab>=1.0
+  - jupyter-dash
+  - notebook=6.*
+  - jupyter-server-proxy
+  - dash
+  - scipy
+  - seaborn
+  - imageio
+  - nodejs
+  - statsmodels
+  - datajoint
+  - ipykernel
+  - pip:
+      - nglui
+      - cloud-volume>=5.0.0
+      - annotationframeworkclient
+      - imageryclient
+      - itkwidgets
+      - meshparty
+      - dashdataframe==0.4.1
+      - gdown
+      - networkx
+      - tqdm
+      - neuroglancer
+      - caveclient
+      - navis
