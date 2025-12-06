@@ -28,7 +28,7 @@ if on_HPC:
     tensorstore_ca_bundle = '/home/gs697/project/ca-certificates.crt' 
 else:
     # Paths for running on local machine
-    home_dir = '/Users/gs697/Research/mitochondriaMorphologyPosition' 
+    home_dir = '/Users/gs697/Research/MitochondrialMorphologyPosition' 
     google_application_credentials = '~/.config/gcloud/application_default_credentials.json'
 
 # Initialize neuPrint client for accessing hemibrain data
