@@ -31,6 +31,9 @@ This repository contains code and analysis for studying mitochondrial positionin
 - `neuron morphology and mito density correlation.ipynb` - Correlation between the mitochondria density and various neural morphometrics
 - `cdfs.ipynb` - Various cumulative distributions summarizing bulk statistics of the mitochondria in LC neuons.
 
+#### Microns Dataset Analysis
+- `microns_code/` - This folder contains the python notebooks necessary for analyzing the mitochondria from the Microns dataset. A more detailed README file can be found within this folder for how to install the necessary packages to run the python notebooks and understand the data files they generate.
+
 ### Supporting Files and Directories
 
 #### Internal Data Directories
